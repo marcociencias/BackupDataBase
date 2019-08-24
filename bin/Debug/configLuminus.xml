@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ConfigDados xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <fileVersion>1.0.0.5</fileVersion>
+  <client>false</client>
+  <Lista_serviços>
+    <string>MSSQL$SQLEXPRESS</string>
+    <string>MSSQLSERVER</string>
+    <string>MSSQL$SQLEXPRESS2</string>
+  </Lista_serviços>
+  <timeOutSession>60</timeOutSession>
+</ConfigDados>

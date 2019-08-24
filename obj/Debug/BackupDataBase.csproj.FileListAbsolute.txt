@@ -1,0 +1,21 @@
+C:\Users\Gonçalves\source\repos\BackupDataBase\BackupDataBase\bin\Debug\BackupDataBase.exe.config
+C:\Users\Gonçalves\source\repos\BackupDataBase\BackupDataBase\bin\Debug\BackupDataBase.exe
+C:\Users\Gonçalves\source\repos\BackupDataBase\BackupDataBase\bin\Debug\BackupDataBase.pdb
+C:\Users\Gonçalves\source\repos\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.csprojAssemblyReference.cache
+C:\Users\Gonçalves\source\repos\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.Properties.Resources.resources
+C:\Users\Gonçalves\source\repos\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.csproj.GenerateResource.cache
+C:\Users\Gonçalves\source\repos\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalves\source\repos\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.exe
+C:\Users\Gonçalves\source\repos\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.pdb
+C:\Users\Gonçalves\source\repos\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.Configuracao.resources
+C:\Users\marco.junior\Documents\Visual Studio 2015\Projects\BackupDataBase\BackupDataBase\bin\Debug\BackupDataBase.exe.config
+C:\Users\marco.junior\Documents\Visual Studio 2015\Projects\BackupDataBase\BackupDataBase\bin\Debug\BackupDataBase.exe
+C:\Users\marco.junior\Documents\Visual Studio 2015\Projects\BackupDataBase\BackupDataBase\bin\Debug\BackupDataBase.pdb
+C:\Users\marco.junior\Documents\Visual Studio 2015\Projects\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.Configuracao.resources
+C:\Users\marco.junior\Documents\Visual Studio 2015\Projects\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.Properties.Resources.resources
+C:\Users\marco.junior\Documents\Visual Studio 2015\Projects\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.csproj.GenerateResource.cache
+C:\Users\marco.junior\Documents\Visual Studio 2015\Projects\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.exe
+C:\Users\marco.junior\Documents\Visual Studio 2015\Projects\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.pdb
+C:\Users\marco.junior\Documents\Visual Studio 2015\Projects\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.Principal.resources
+C:\Users\Gonçalves\source\repos\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.Principal.resources
+C:\Users\marco.junior\Documents\Visual Studio 2015\Projects\BackupDataBase\BackupDataBase\obj\Debug\BackupDataBase.csprojResolveAssemblyReference.cache

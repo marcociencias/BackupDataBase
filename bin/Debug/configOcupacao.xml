@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ConfigDados xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Indice>0</Indice>
+  <Lista_Valor>
+    <int>600</int>
+    <int>1200</int>
+    <int>1800</int>
+    <int>6000</int>
+  </Lista_Valor>
+  <Lista_Desc>
+    <string>10 minutos</string>
+    <string>20 minutos</string>
+    <string>30 minutos</string>
+    <string>60 minutos</string>
+  </Lista_Desc>
+  <configGrafico>
+    <offsetX>105</offsetX>
+    <offsetY>202</offsetY>
+    <alpha>255</alpha>
+    <red>255</red>
+    <green>0</green>
+    <blue>0</blue>
+    <width>1</width>
+    <alphaBack>255</alphaBack>
+    <redBabk>255</redBabk>
+    <greenBabk>111</greenBabk>
+    <blueBabk>111</blueBabk>
+    <widthBack>2</widthBack>
+  </configGrafico>
+</ConfigDados>

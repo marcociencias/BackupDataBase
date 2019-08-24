@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ConfigPahFiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <pathApp>C:\Users\marco.junior\Documents\Visual Studio 2015\Projects\BackupDataBase\BackupDataBase\bin\Debug</pathApp>
+  <pathComunicador>SpnComm.exe</pathComunicador>
+  <pathRelatorios>SpnReport.exe</pathRelatorios>
+  <pathControle>SpnControle.exe</pathControle>
+  <pathConfigurador>SpnDB.exe</pathConfigurador>
+  <pathConfigParam>ConfigParam.exe</pathConfigParam>
+  <pathControleAcesso>SpnAC.exe</pathControleAcesso>
+  <pathGeradorSelo>GeradorSeloDesconto.exe</pathGeradorSelo>
+</ConfigPahFiles>
